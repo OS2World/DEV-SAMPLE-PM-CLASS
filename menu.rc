@@ -1,0 +1,6 @@
+MENU idResourceMenu
+BEGIN
+	MENUITEM "Zoom - Old Window", idResourceMenuItemZoomOld,, MIA_DISABLED
+	MENUITEM "Zoom - New Window", idResourceMenuItemZoomNew,, MIA_DISABLED
+END
+

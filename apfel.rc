@@ -1,0 +1,2 @@
+#include "apfel.resource.h"
+rcinclude menu.RC
